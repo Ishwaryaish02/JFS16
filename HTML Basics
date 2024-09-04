@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>website title name</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Heading Elements:Heading 1</h1>
+        <h1>Heading 2</h1>
+        <h1>Heading 3</h1>
+        <h1>Heading 4</h1>
+        <h1>Heading 5</h1>
+        <h1>Heading 6</h1>
+        <p>This is para</p>
+        <div>Division: Div is a blocck level element,adding new line and 100% width</div>
+        <span>Span: Span is a inline element,cotent background space only</span>
+        <br/>
+        <hr/>
+        <button>click me</button>
+        <header>Header Semantic element</header>
+        <section>Section semantic element</section>
+        <footer>Footer semantic element</footer>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem ex adipisci amet enim mollitia consectetur laboriosam nobis quia error placeat tempore, quis maxime eius libero. Laborum velit cum eos nihil.</p>
+        
+        
+    </div>
+    
+</body>
+</html>
